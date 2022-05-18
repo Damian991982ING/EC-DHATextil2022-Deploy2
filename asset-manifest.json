@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/EC-DHATextil2022-Deploy2/static/css/main.073c9b0a.css",
+    "main.js": "/EC-DHATextil2022-Deploy2/static/js/main.0fec97ee.js",
+    "static/js/787.5d56b80d.chunk.js": "/EC-DHATextil2022-Deploy2/static/js/787.5d56b80d.chunk.js",
+    "static/media/logo.svg": "/EC-DHATextil2022-Deploy2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/EC-DHATextil2022-Deploy2/index.html",
+    "main.073c9b0a.css.map": "/EC-DHATextil2022-Deploy2/static/css/main.073c9b0a.css.map",
+    "main.0fec97ee.js.map": "/EC-DHATextil2022-Deploy2/static/js/main.0fec97ee.js.map",
+    "787.5d56b80d.chunk.js.map": "/EC-DHATextil2022-Deploy2/static/js/787.5d56b80d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0fec97ee.js"
+  ]
+}
