@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Ecommerce en REACT 18 y Firebase 9
         </p>
         <a
           className="App-link"
